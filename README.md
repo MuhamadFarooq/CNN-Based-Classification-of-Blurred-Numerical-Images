@@ -1,1 +1,2 @@
-# CNN-Based-Classification-of-Blurred-Numerical-Images
+# Dataset
+Dataset for this task is taken from 
